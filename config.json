@@ -1,0 +1,5 @@
+{
+    "Filename" : "test.asmpy",
+    "OutputFilename" : "test.asm",
+    "DebugEnabled" : "True"
+}

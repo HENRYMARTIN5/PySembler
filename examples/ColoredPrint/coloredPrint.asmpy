@@ -1,0 +1,6 @@
+def Main():
+    print("Welcome to a cool little demo!", "grey")
+    print("Red", "red")
+    print("Green", "green")
+    print("Blue", "blue")
+    print("Grey", "grey")
