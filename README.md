@@ -1,2 +1,2 @@
-# Py2Assembler
-Python to Assembly converter.
+# PySembler
+Python to Assembly compiler.
