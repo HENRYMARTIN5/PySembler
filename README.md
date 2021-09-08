@@ -1,2 +1,2 @@
 # PySembler
-Python to Assembly compiler.
+Python to NASM compiler.
