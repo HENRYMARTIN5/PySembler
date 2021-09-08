@@ -1,2 +1,2 @@
 # PySembler
-Python to NASM compiler.
+A Python to NASM Assembly converter, written in Python.
